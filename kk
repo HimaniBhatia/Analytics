@@ -23,12 +23,12 @@
                         "mobileNumber": ""
                     },
                     "borrwerIDDetailsVec": {
-                        "lastReportedDate": "30-JUN-2017",
+                        "lastReportedDate": "",
                         "borrwerIDDetails": [
                             {
                                 "cin": "",
                                 "din": "",
-                                "pan": "AAHPJ4473H",
+                                "pan": "",
                                 "passportNumber": "",
                                 "registrationNumber": "",
                                 "tin": "",
